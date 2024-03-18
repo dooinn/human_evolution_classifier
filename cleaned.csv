@@ -1,0 +1,721 @@
+genus_species,cranial_capacity,height,current_country,habitat,jaw_shape,prognathism,biped,arms,foots,sexual_dimorphism,hip,skeleton
+Australopithecus Anamensis,281.19,132.33,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,94.12,87.49,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Afarensis,311.48,120.44,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Sahelanthropus tchadensis,196.0,88.4,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Heidelbergensis,1232.46,167.6,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Paranthropus Boisei,440.12,108.51,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Erectus,1074.97,162.53,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,362.97,138.79,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Georgicus,660.31,155.74,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Sediba,388.1,102.91,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Robustus,446.04,127.74,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Garhi,369.47,117.91,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Sapiens,1184.65,173.82,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Rudolfensis,688.08,139.71,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Rudolfensis,749.16,137.9,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Garhi,337.21,120.71,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Floresiensis,295.09,95.26,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Habilis,694.51,128.35,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Garhi,424.76,123.75,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Garhi,341.85,118.97,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Antecesor,951.32,173.17,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Erectus,1065.21,151.35,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1101.68,159.17,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Ardipithecus ramidus / kabadda,352.2,108.59,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Neanderthalensis,1078.12,157.58,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Floresiensis,272.8,95.27,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Georgicus,736.39,144.4,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,320.74,117.36,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Ardipithecus ramidus / kabadda,294.98,104.1,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Australopithecus Anamensis,386.24,131.31,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Boisei,555.72,107.67,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Georgicus,789.87,158.7,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Robustus,479.65,117.34,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,507.28,120.29,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Ergaster,892.6,150.72,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Boisei,500.79,108.64,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Floresiensis,316.6,104.47,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Africanus,506.82,106.76,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Sediba,371.07,110.68,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,422.99,104.12,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,353.24,102.06,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Garhi,414.84,126.48,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Africanus,495.67,104.77,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Anamensis,380.68,123.54,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,426.22,118.5,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Neanderthalensis,1068.07,149.15,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Heidelbergensis,1336.69,178.17,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Orrorin tugenencin,137.61,122.25,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Bahrelghazali,231.33,120.67,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Ardipithecus ramidus / kabadda,265.53,103.45,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Sahelanthropus tchadensis,127.05,86.51,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Heidelbergensis,1244.16,177.53,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rodhesiensis,1031.92,155.71,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Africanus,597.34,105.59,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,189.71,88.11,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Orrorin tugenencin,213.36,129.02,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,155.25,91.37,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Neanderthalensis,1078.92,154.38,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Anamensis,405.61,124.79,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Orrorin tugenencin,216.69,115.68,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Bahrelghazali,255.09,122.77,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Naledi,334.12,144.16,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Orrorin tugenencin,105.23,123.74,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Anamensis,278.98,131.08,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,472.31,112.89,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Georgicus,732.49,145.65,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1093.58,158.57,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Paranthropus Boisei,517.97,104.16,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Sediba,458.43,114.35,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Boisei,569.12,96.5,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Anamensis,373.56,131.98,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,499.52,116.71,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Floresiensis,316.04,107.18,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Ergaster,819.27,154.23,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Afarensis,352.91,137.65,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Floresiensis,346.17,107.71,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Floresiensis,254.28,92.81,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Naledi,280.74,151.94,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Afarensis,399.33,125.89,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Garhi,404.35,123.83,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Anamensis,284.9,134.18,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Robustus,496.55,121.86,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Boisei,555.72,99.66,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Ardipithecus ramidus / kabadda,307.78,105.54,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Naledi,403.53,137.57,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Garhi,413.97,119.77,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Anamensis,352.25,129.49,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Orrorin tugenencin,90.57,127.7,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1164.81,148.27,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1254.55,175.49,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Africanus,488.35,113.71,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Garhi,305.6,119.97,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Garhi,317.08,115.43,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Georgicus,771.34,159.66,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Orrorin tugenencin,217.33,124.28,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Boisei,552.71,99.4,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Sapiens,1206.59,166.74,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Garhi,310.41,131.37,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Afarensis,400.67,132.38,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Heidelbergensis,1340.37,174.19,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Erectus,1009.33,151.34,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Africanus,535.3,109.6,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Ergaster,797.4,152.83,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rodhesiensis,1059.0,141.78,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Naledi,372.27,140.94,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Africanus,569.97,110.55,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Heidelbergensis,1287.88,172.09,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Floresiensis,321.55,99.65,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Paranthropus Robustus,458.14,127.08,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Boisei,517.35,103.83,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rudolfensis,709.36,130.93,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Bahrelghazali,285.37,118.22,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Erectus,1106.21,152.49,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,368.56,136.55,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Orrorin tugenencin,97.61,111.01,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,201.72,80.21,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Orrorin tugenencin,80.84,120.27,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rudolfensis,715.59,128.05,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Paranthropus Aethiopicus,436.63,110.54,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Naledi,310.0,149.62,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Sahelanthropus tchadensis,198.54,95.28,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Georgicus,787.33,143.45,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Habilis,765.58,125.87,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1289.07,178.54,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Sapiens,1171.71,177.1,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Naledi,407.82,137.8,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Ergaster,803.21,162.7,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Habilis,716.4,129.21,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Floresiensis,347.11,102.25,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Sapiens,1279.25,160.43,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Africanus,548.89,111.43,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Sapiens,1183.04,166.92,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Orrorin tugenencin,177.48,123.61,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Floresiensis,237.95,92.4,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Erectus,1018.36,166.12,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Erectus,1037.05,152.32,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,299.35,135.82,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Naledi,351.01,142.68,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Naledi,314.19,141.24,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Africanus,578.0,118.88,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Paranthropus Robustus,481.3,112.65,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Aethiopicus,486.04,124.35,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Sapiens,1275.03,177.83,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Afarensis,387.14,133.43,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Paranthropus Robustus,545.88,128.71,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Sapiens,1277.29,168.85,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Afarensis,367.07,135.35,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Orrorin tugenencin,128.45,115.16,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Erectus,986.12,151.45,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Robustus,489.48,110.63,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Georgicus,682.55,142.48,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Ardipithecus ramidus / kabadda,289.32,114.73,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Georgicus,730.06,144.33,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1260.26,168.12,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rodhesiensis,1041.68,137.85,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Neanderthalensis,1133.6,149.69,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Bahrelghazali,342.48,114.57,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Erectus,989.77,164.04,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Sahelanthropus tchadensis,107.64,89.23,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,120.25,86.28,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rudolfensis,646.21,124.55,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Sediba,360.05,112.31,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Boisei,515.04,98.2,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,1014.62,161.11,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Rodhesiensis,1116.16,152.44,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1172.75,164.47,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Sapiens,1225.06,178.89,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Bahrelghazali,259.16,115.08,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Garhi,340.14,114.17,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Rodhesiensis,1141.91,148.56,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Erectus,1030.43,164.63,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Habilis,727.23,127.28,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1276.6,166.52,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Bahrelghazali,281.31,114.49,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Africanus,572.3,105.2,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Paranthropus Robustus,489.77,111.03,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Naledi,294.46,146.04,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Africanus,555.25,108.76,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Georgicus,753.83,158.34,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1093.99,151.08,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Afarensis,378.64,120.73,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Paranthropus Boisei,551.31,109.62,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Habilis,762.94,121.11,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Sapiens,1250.8,169.58,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Naledi,373.22,136.91,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Garhi,402.87,127.96,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Ardipithecus ramidus / kabadda,276.07,115.32,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Paranthropus Boisei,481.48,100.43,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Erectus,1081.93,161.34,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Rudolfensis,689.02,121.22,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Anamensis,375.02,115.3,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Africanus,481.68,111.71,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Heidelbergensis,1311.31,170.04,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Antecesor,1016.07,178.51,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Sediba,390.11,121.59,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Georgicus,718.83,151.16,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Rodhesiensis,1048.14,140.52,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Paranthropus Robustus,499.19,116.3,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,1054.01,165.35,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Rudolfensis,695.77,132.78,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Bahrelghazali,354.02,109.42,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Paranthropus Aethiopicus,432.25,112.64,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Aethiopicus,394.72,120.46,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Sediba,369.56,117.21,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Ergaster,821.13,156.46,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,450.76,120.98,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Heidelbergensis,1330.25,165.33,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Africanus,617.5,115.18,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Erectus,998.78,162.06,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Georgicus,731.44,144.36,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Anamensis,305.48,122.01,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Bahrelghazali,293.97,123.51,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Africanus,603.47,107.11,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Neanderthalensis,1094.16,161.04,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Sediba,364.0,104.56,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Antecesor,1052.23,170.04,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Sahelanthropus tchadensis,193.28,93.52,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Antecesor,976.86,161.15,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Anamensis,331.57,117.89,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Erectus,1090.37,161.81,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Ardipithecus ramidus / kabadda,309.8,115.12,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Australopithecus Garhi,413.49,128.78,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Ardipithecus ramidus / kabadda,274.95,104.12,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Orrorin tugenencin,119.44,118.28,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Habilis,811.87,120.18,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Sahelanthropus tchadensis,188.85,88.52,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Habilis,807.16,139.18,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Rudolfensis,672.39,122.03,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Sapiens,1234.72,163.65,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Rodhesiensis,1137.78,143.99,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Floresiensis,230.08,109.97,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Sahelanthropus tchadensis,142.77,98.69,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Sediba,427.36,115.1,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,330.2,103.07,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Heidelbergensis,1322.18,167.14,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Bahrelghazali,252.18,119.95,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Ergaster,783.42,154.28,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Garhi,392.53,121.67,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Aethiopicus,429.45,115.11,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Ergaster,783.65,164.83,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Antecesor,1040.9,173.04,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Bahrelghazali,287.57,113.0,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Sahelanthropus tchadensis,115.89,98.71,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Erectus,1005.57,164.06,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Rudolfensis,644.5,121.33,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Ardipithecus ramidus / kabadda,288.5,106.5,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Rudolfensis,629.09,133.59,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Africanus,570.18,100.54,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Anamensis,358.75,119.24,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Floresiensis,338.83,103.54,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Sediba,441.62,121.77,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Sapiens,1170.8,178.97,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Bahrelghazali,338.41,108.41,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Ardipithecus ramidus / kabadda,261.85,107.62,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Sapiens,1224.68,165.57,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Ergaster,802.2,151.04,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Sediba,352.77,115.64,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Ardipithecus ramidus / kabadda,256.88,105.19,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Antecesor,998.28,163.92,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Ardipithecus ramidus / kabadda,259.56,117.66,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Paranthropus Boisei,491.66,99.48,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Africanus,523.54,110.02,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Heidelbergensis,1240.74,174.18,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Antecesor,1019.29,165.41,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Heidelbergensis,1256.88,178.95,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Habilis,806.89,133.21,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Rodhesiensis,1145.18,154.57,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Naledi,416.09,149.87,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Floresiensis,299.68,105.59,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Orrorin tugenencin,112.02,119.0,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Georgicus,764.03,150.82,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,389.12,116.68,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Anamensis,293.54,127.91,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Floresiensis,259.83,92.4,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Heidelbergensis,1333.75,181.47,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rudolfensis,735.38,139.14,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Georgicus,747.25,154.72,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Floresiensis,365.25,101.98,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Anamensis,384.51,126.8,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Ergaster,807.35,166.58,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rodhesiensis,1092.95,146.87,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Anamensis,395.73,124.68,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Anamensis,290.86,122.56,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,392.92,123.7,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Habilis,783.42,137.19,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Robustus,559.99,111.23,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Orrorin tugenencin,111.61,122.71,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,466.42,117.4,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,543.88,124.32,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Sediba,391.61,112.95,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Ergaster,889.8,159.37,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Robustus,467.28,126.39,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Sahelanthropus tchadensis,210.04,89.6,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Orrorin tugenencin,218.88,111.08,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Naledi,343.53,139.84,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Habilis,699.49,129.38,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Garhi,350.49,127.21,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Georgicus,758.56,142.67,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Boisei,556.31,98.23,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,314.61,129.12,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Erectus,1020.19,150.14,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Erectus,1023.0,160.3,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Antecesor,975.39,164.47,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Sahelanthropus tchadensis,173.81,82.5,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Antecesor,1048.97,171.7,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Neanderthalensis,1078.28,163.81,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Neanderthalensis,1052.92,148.29,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Floresiensis,248.3,92.76,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Georgicus,673.62,147.8,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Anamensis,379.78,133.82,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Antecesor,1025.25,161.95,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Paranthropus Aethiopicus,431.35,120.28,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,435.97,124.08,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Orrorin tugenencin,120.24,110.42,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Africanus,553.7,108.03,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Sapiens,1168.09,161.04,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Habilis,792.93,127.9,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1093.98,166.97,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Ardipithecus ramidus / kabadda,310.83,101.99,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Australopithecus Afarensis,418.59,123.12,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Erectus,1107.14,159.16,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Georgicus,744.43,147.64,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Rudolfensis,687.21,132.39,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Orrorin tugenencin,179.87,110.02,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Sediba,331.61,117.77,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Orrorin tugenencin,91.55,124.19,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Afarensis,381.79,134.67,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Paranthropus Aethiopicus,483.04,119.85,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,449.58,110.04,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rodhesiensis,1044.63,146.31,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Naledi,280.16,150.63,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Bahrelghazali,231.57,112.4,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Garhi,317.74,127.42,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Robustus,569.3,113.5,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,392.19,134.01,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Rodhesiensis,1159.77,140.37,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Antecesor,1049.85,172.44,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Paranthropus Boisei,542.86,106.48,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Sediba,330.65,114.06,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,427.17,115.29,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Africanus,558.03,117.13,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Ergaster,914.56,168.53,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Habilis,702.92,131.75,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Ardipithecus ramidus / kabadda,230.36,104.21,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Orrorin tugenencin,167.16,119.29,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Sapiens,1155.4,167.49,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Paranthropus Aethiopicus,400.92,107.86,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,346.16,127.36,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Ergaster,847.5,150.63,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,359.7,116.06,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Ergaster,846.93,169.05,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,256.81,110.13,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Habilis,813.88,128.92,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Georgicus,737.24,152.94,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1289.8,165.55,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Anamensis,340.71,115.61,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,440.21,105.52,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Africanus,510.28,110.13,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Georgicus,746.5,157.23,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Boisei,525.94,113.41,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Naledi,362.46,151.35,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Sapiens,1207.63,161.51,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Sahelanthropus tchadensis,111.26,88.08,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Floresiensis,295.9,104.56,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Heidelbergensis,1314.53,166.84,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Sahelanthropus tchadensis,209.46,86.3,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,187.87,85.29,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1104.46,155.74,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Ardipithecus ramidus / kabadda,265.27,113.76,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Rudolfensis,647.0,128.1,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Afarensis,301.61,127.21,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Paranthropus Aethiopicus,490.11,112.39,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Ardipithecus ramidus / kabadda,329.91,114.34,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Rudolfensis,626.29,127.25,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Antecesor,1054.56,165.27,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Orrorin tugenencin,163.57,121.01,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Ardipithecus ramidus / kabadda,353.54,117.63,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Paranthropus Robustus,496.81,119.16,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Bahrelghazali,359.34,113.67,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Heidelbergensis,1279.7,183.06,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Garhi,368.75,118.09,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Sahelanthropus tchadensis,127.87,87.63,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Robustus,440.83,112.25,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Boisei,525.62,111.92,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rudolfensis,645.32,131.57,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Bahrelghazali,289.4,108.31,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Anamensis,323.09,125.76,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Sediba,382.09,120.17,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Garhi,371.56,119.26,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,369.72,107.44,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Sahelanthropus tchadensis,138.13,99.77,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Georgicus,784.52,152.88,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Anamensis,406.91,131.97,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Neanderthalensis,1096.24,162.86,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Rodhesiensis,1141.67,146.84,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Heidelbergensis,1237.34,183.97,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Afarensis,411.67,120.91,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Floresiensis,256.17,104.71,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Ardipithecus ramidus / kabadda,291.44,118.58,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Rodhesiensis,1054.77,156.68,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1199.95,168.19,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Orrorin tugenencin,152.49,128.56,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Floresiensis,312.46,96.29,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Erectus,1107.43,156.28,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,235.57,125.04,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Paranthropus Robustus,548.4,126.74,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Heidelbergensis,1239.89,172.36,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Habilis,707.7,137.42,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Garhi,391.2,118.58,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Orrorin tugenencin,122.06,127.07,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Habilis,795.67,123.09,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Ergaster,892.51,163.54,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,478.89,113.71,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Habilis,713.95,121.57,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Orrorin tugenencin,176.71,127.89,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Afarensis,341.7,128.33,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Heidelbergensis,1257.68,173.68,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Ardipithecus ramidus / kabadda,233.37,116.92,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Sahelanthropus tchadensis,181.7,92.86,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Ergaster,910.24,157.46,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rodhesiensis,1039.54,137.39,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Bahrelghazali,291.35,112.83,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Erectus,1091.14,161.98,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Boisei,512.84,100.03,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Bahrelghazali,277.61,125.51,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Antecesor,974.42,172.06,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Africanus,480.99,119.16,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Ardipithecus ramidus / kabadda,288.93,119.98,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Erectus,1020.7,166.62,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,362.91,140.65,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Afarensis,394.87,123.2,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Rodhesiensis,1132.32,144.94,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Anamensis,388.56,121.24,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Africanus,531.72,119.4,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Neanderthalensis,1055.1,155.29,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Neanderthalensis,1057.63,160.93,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Neanderthalensis,1091.04,152.15,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Paranthropus Boisei,484.09,99.23,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,1048.46,164.14,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Georgicus,781.03,157.41,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1080.5,148.12,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Ergaster,888.54,168.92,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Ergaster,783.06,165.16,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Sahelanthropus tchadensis,142.63,83.52,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Boisei,457.32,102.16,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Heidelbergensis,1258.94,176.26,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Floresiensis,345.0,100.1,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Africanus,559.93,112.89,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Rudolfensis,644.35,127.85,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Erectus,1016.68,155.15,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1237.58,168.69,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Australopithecus Afarensis,287.44,127.05,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Sediba,419.14,121.37,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Floresiensis,337.05,90.62,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Ergaster,844.32,150.03,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Ardipithecus ramidus / kabadda,335.7,117.17,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Orrorin tugenencin,128.6,111.81,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1130.26,140.51,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Rodhesiensis,1030.02,137.3,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1198.91,172.38,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Erectus,1061.24,155.63,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Boisei,493.47,104.06,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Heidelbergensis,1315.2,174.32,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Floresiensis,286.59,96.94,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Habilis,743.29,120.22,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,284.18,138.8,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Afarensis,390.0,139.63,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Garhi,440.58,129.84,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Habilis,728.49,125.21,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Erectus,1093.35,158.05,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Habilis,772.9,133.58,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Robustus,490.09,114.03,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Garhi,366.97,113.1,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Africanus,480.03,108.52,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Garhi,353.53,123.37,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Neanderthalensis,1074.11,160.46,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Sediba,396.44,121.12,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Rodhesiensis,1051.37,140.38,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Sediba,350.52,112.71,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Boisei,555.03,103.45,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,448.79,122.45,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Heidelbergensis,1338.61,178.74,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Sapiens,1275.95,163.95,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Paranthropus Boisei,437.4,113.77,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Robustus,449.15,125.23,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Orrorin tugenencin,90.34,116.33,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Sediba,400.89,104.07,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Antecesor,969.86,171.96,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Naledi,345.7,148.77,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Orrorin tugenencin,104.81,118.28,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Africanus,491.03,100.18,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,88.32,81.05,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1074.48,152.1,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Bahrelghazali,286.64,110.49,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Naledi,323.87,152.91,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Erectus,1059.3,169.09,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,299.83,108.36,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Orrorin tugenencin,112.5,110.45,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Afarensis,346.26,129.72,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Bahrelghazali,341.28,124.12,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Ergaster,893.0,168.23,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Heidelbergensis,1355.73,169.97,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rudolfensis,758.58,123.68,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Neanderthalensis,1115.49,164.67,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Anamensis,408.63,116.99,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1168.96,145.35,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Neanderthalensis,1054.12,161.79,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Paranthropus Robustus,559.99,111.91,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rudolfensis,625.91,133.72,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Sediba,454.62,107.27,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Sediba,373.8,120.98,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Aethiopicus,489.76,110.05,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Neanderthalensis,1057.98,166.23,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Floresiensis,291.48,99.33,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Ergaster,836.09,164.1,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rodhesiensis,1131.4,152.89,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1188.0,176.59,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Floresiensis,232.8,100.14,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Anamensis,364.19,127.12,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Sapiens,1188.31,177.29,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Neanderthalensis,1136.87,167.84,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Rodhesiensis,1167.98,146.88,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Paranthropus Robustus,569.93,128.58,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Neanderthalensis,1103.4,162.95,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Ardipithecus ramidus / kabadda,282.4,115.12,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Habilis,804.93,126.49,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Sahelanthropus tchadensis,196.21,87.91,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Ergaster,810.52,167.17,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Erectus,1061.52,158.48,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Robustus,553.73,124.35,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,362.24,131.7,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Ardipithecus ramidus / kabadda,319.82,106.49,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Sapiens,1183.78,167.63,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Antecesor,1043.43,167.46,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Neanderthalensis,1135.12,167.63,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Paranthropus Boisei,471.25,112.36,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Garhi,429.89,117.88,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Boisei,548.52,104.81,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Georgicus,688.79,152.45,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Floresiensis,234.02,102.17,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Habilis,783.91,121.11,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Bahrelghazali,326.65,110.46,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Paranthropus Boisei,538.14,102.29,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Anamensis,365.9,127.9,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Garhi,444.02,131.0,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Naledi,322.57,145.1,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Rudolfensis,684.2,131.51,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Habilis,817.33,138.72,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,413.99,119.03,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,399.72,136.51,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Garhi,404.19,119.65,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Afarensis,301.84,120.42,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Ardipithecus ramidus / kabadda,252.78,109.93,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Habilis,762.26,120.33,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Ergaster,914.91,167.3,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Ergaster,822.13,154.34,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Australopithecus Afarensis,295.59,121.21,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Georgicus,659.48,149.53,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Antecesor,1000.59,171.51,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Paranthropus Boisei,509.6,111.79,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Garhi,382.59,119.74,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Neanderthalensis,1128.21,151.89,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Erectus,1024.58,150.89,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,300.85,137.4,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Rodhesiensis,1129.77,147.46,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Sediba,462.83,106.7,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Orrorin tugenencin,152.99,115.59,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Sahelanthropus tchadensis,205.33,84.28,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,494.66,112.81,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Erectus,1118.16,165.54,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,451.62,124.7,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,414.0,131.5,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Rudolfensis,755.36,136.3,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Australopithecus Anamensis,333.48,119.04,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Bahrelghazali,270.36,126.89,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Africanus,505.58,103.36,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Habilis,711.08,129.33,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Ergaster,886.2,165.78,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Boisei,478.73,111.98,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Ardipithecus ramidus / kabadda,341.99,119.53,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Erectus,1037.65,153.98,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Ergaster,844.56,168.1,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rudolfensis,670.02,120.23,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Ardipithecus ramidus / kabadda,283.0,107.18,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Floresiensis,251.29,108.19,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Anamensis,347.37,119.85,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Australopithecus Bahrelghazali,240.71,109.59,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Heidelbergensis,1330.09,184.05,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Naledi,316.07,143.44,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Georgicus,701.47,150.48,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Africanus,508.94,107.67,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Ergaster,914.63,153.84,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Georgicus,685.61,147.85,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Floresiensis,258.21,101.92,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Rodhesiensis,1135.64,140.4,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Sapiens,1207.88,162.81,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Heidelbergensis,1266.48,177.77,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Ardipithecus ramidus / kabadda,246.84,107.22,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Homo Georgicus,700.95,153.36,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Paranthropus Aethiopicus,488.64,110.78,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Afarensis,331.1,134.87,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Sediba,434.53,109.98,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Bahrelghazali,302.12,122.96,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Naledi,294.16,139.72,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Sapiens,1252.63,175.45,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Georgicus,687.19,145.67,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Sahelanthropus tchadensis,178.92,87.83,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Afarensis,355.43,124.87,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Sahelanthropus tchadensis,176.64,86.71,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Robustus,440.39,126.95,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,952.38,170.5,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Ergaster,838.76,160.77,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Naledi,402.0,150.13,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Bahrelghazali,310.24,119.94,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Ergaster,846.28,155.95,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Rodhesiensis,1143.04,150.39,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Antecesor,995.72,163.65,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Ardipithecus ramidus / kabadda,261.08,109.63,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Paranthropus Aethiopicus,443.68,122.61,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Aethiopicus,463.97,110.95,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rudolfensis,719.79,139.08,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Paranthropus Aethiopicus,415.91,112.09,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Georgicus,748.51,144.66,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,413.73,134.84,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Sapiens,1265.94,174.47,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Sediba,464.67,115.9,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Heidelbergensis,1323.93,178.97,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Paranthropus Boisei,456.56,107.95,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Australopithecus Garhi,315.0,124.73,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Paranthropus Robustus,507.64,128.28,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Sapiens,1164.75,169.49,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Sahelanthropus tchadensis,158.35,86.13,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Aethiopicus,428.42,114.37,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Erectus,1112.44,158.66,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Floresiensis,292.34,99.59,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Neanderthalensis,1092.24,166.33,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Habilis,718.02,128.42,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Georgicus,705.4,143.16,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Sediba,451.99,110.45,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Bahrelghazali,366.5,116.4,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Homo Floresiensis,262.83,106.07,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Paranthropus Robustus,454.23,124.56,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rodhesiensis,1042.48,142.8,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Australopithecus Africanus,517.28,112.29,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Antecesor,1073.59,172.15,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Antecesor,954.41,169.41,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Habilis,786.9,120.69,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Neanderthalensis,1095.26,150.96,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Africanus,484.0,101.82,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Rodhesiensis,1049.1,149.17,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Homo Heidelbergensis,1244.79,175.2,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rudolfensis,753.38,135.35,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Paranthropus Boisei,435.78,95.47,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,969.87,173.92,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Rudolfensis,749.41,136.36,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Orrorin tugenencin,153.79,119.96,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Naledi,318.11,139.47,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Paranthropus Aethiopicus,385.48,113.22,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Neanderthalensis,1097.35,157.84,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Floresiensis,341.42,106.43,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Rudolfensis,632.82,130.2,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Ardipithecus ramidus / kabadda,230.59,113.18,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Australopithecus Africanus,609.81,105.95,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Afarensis,364.68,139.59,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Australopithecus Garhi,413.86,116.37,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Habilis,738.9,130.36,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Heidelbergensis,1265.48,183.27,Germany,cold forest,modern,reduced,modern,manipulate,walk,medium-high,very modern,robust
+Homo Rodhesiensis,1159.08,138.26,Ethiopia,savannah,U shape,medium-high,modern,manipulate with precision,walk,medium-high,slim,robust
+Sahelanthropus tchadensis,92.5,83.04,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Paranthropus Boisei,490.17,112.74,Ethiopia,forest,V shape,very high,yes,climbing,climbing,high,wide,robust
+Paranthropus Aethiopicus,386.57,124.13,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Rudolfensis,697.19,121.52,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Erectus,992.55,163.49,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Anamensis,327.61,118.26,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Rudolfensis,739.08,120.07,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Sapiens,1195.0,167.74,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Australopithecus Garhi,368.38,122.34,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Neanderthalensis,1081.65,153.44,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Rudolfensis,734.41,135.01,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Floresiensis,254.39,108.6,Indonesia,peninsular,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Australopithecus Anamensis,393.96,121.71,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Neanderthalensis,1121.39,152.88,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Homo Rudolfensis,732.25,122.79,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Sahelanthropus tchadensis,159.74,82.23,Republic of Chad,mixed,conical,high,low probability,climbing,climbing,high,wide,light
+Australopithecus Africanus,566.48,119.15,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Australopithecus Sediba,335.99,105.94,South Africa,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Homo Antecesor,1013.72,160.57,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Afarensis,319.68,134.8,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Neanderthalensis,1074.3,150.98,Germany,cold forest,very modern,very reduced,modern,manipulate with precision,walk,medium-high,very modern,robust
+Australopithecus Bahrelghazali,363.87,107.54,Republic of Chad,mixed,U shape,medium-high,yes,climbing,climbing,high,slim,light
+Australopithecus Anamensis,404.2,128.8,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Georgicus,676.81,140.51,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Africanus,600.14,104.45,South Africa,forest-gallery,conical,medium-high,yes,climbing,climbing,high,wide,light
+Homo Ergaster,789.03,163.81,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Paranthropus Robustus,453.62,121.4,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Erectus,1061.47,164.72,Indonesia,savannah,modern,reduced,modern,manipulate,walk,medium-high,modern,robust
+Homo Naledi,300.2,148.72,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Georgicus,766.27,145.69,Georgia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Homo Habilis,685.3,123.92,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Ardipithecus ramidus / kabadda,246.42,113.31,Ethiopia,mixed,conical,high,high probability,climbing,climbing,medium-high,wide,light
+Orrorin tugenencin,201.3,110.79,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Sapiens,1266.79,165.04,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Paranthropus Robustus,510.13,122.48,South Africa,jungle,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Naledi,335.03,153.33,South Africa,jungle,U shape,medium-high,modern,climbing,walk,medium-high,wide,light
+Homo Rudolfensis,706.29,135.54,Kenya,savannah,U shape,medium-high,yes,climbing,walk,high,slim,refined
+Homo Ergaster,885.9,169.69,Kenya,savannah,modern,reduced,modern,manipulate with precision,walk,medium-high,modern,robust
+Homo Sapiens,1172.54,164.39,Kenya,all,very modern,absent,modern,manipulate with precision,walk,reduced,very modern,refined
+Homo Antecesor,982.71,164.18,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Orrorin tugenencin,142.05,123.08,Kenya,forest,conical,high,low probability,climbing,climbing,high,wide,light
+Homo Habilis,727.36,127.34,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
+Australopithecus Afarensis,356.69,121.26,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Antecesor,1030.22,169.06,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Homo Antecesor,988.29,171.37,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Garhi,394.5,126.31,Ethiopia,mixed,U shape,medium-high,yes,climbing,walk,high,slim,light
+Australopithecus Anamensis,294.94,119.61,Kenya,forest-gallery,U shape,high,yes,climbing,climbing,high,wide,light
+Homo Antecesor,1040.64,162.65,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Paranthropus Aethiopicus,396.47,124.48,Kenya,forest-savanna,V shape,very high,yes,climbing,climbing,high,wide,robust
+Homo Antecesor,1047.26,179.66,Spain,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,light
+Australopithecus Afarensis,367.3,127.73,Kenya,mixed,U shape,high,yes,climbing,walk,high,slim,refined
+Homo Habilis,718.35,126.87,Ethiopia,savannah,U shape,medium,modern,manipulate,walk,medium-high,modern,robust
