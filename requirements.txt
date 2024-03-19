@@ -1,3 +1,5 @@
+altair
+pydeck
 pandas
 numpy
 seaborn
