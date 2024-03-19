@@ -1,8 +1,11 @@
 import streamlit as st
 import pandas as pd
-
+import os
+from PIL import Image
+import requests
 
 def user_input_features():
+
     current_country = st.sidebar.selectbox('Current Country', ['Kenya', 'Republic of Chad', 'Germany', 'Ethiopia', 'Indonesia', 'South Africa', 'Georgia', 'Spain'])
     habitat = st.sidebar.selectbox('Habitat', ['forest-gallery', 'mixed', 'cold forest', 'forest', 'savannah', 'jungle', 'all', 'peninsular', 'forest-savanna']) 
     
@@ -42,3 +45,54 @@ def user_input_features():
     }
     features = pd.DataFrame(data)
     return features
+
+
+
+def display_prediction_images(prediction):
+    # Format the prediction result to match the image filenames
+    formatted_prediction = prediction.lower().replace(" ", "_")
+    
+    # Construct the path to the images folder
+    images_folder = 'images'
+    
+    # Supported image extensions
+    supported_extensions = ['jpg', 'jpeg', 'webp']
+    
+    # Find all images for the predicted species with supported extensions
+    image_files = [f for f in os.listdir(images_folder) if f.startswith(formatted_prediction) and f.split('.')[-1] in supported_extensions]
+    
+    if image_files:
+
+        for image_file in image_files:
+            image_path = os.path.join(images_folder, image_file)
+            image = Image.open(image_path)
+            # Display each image with a caption
+            st.image(image, caption=image_file, use_column_width=True)
+    else:
+        st.write("No images found for the predicted species.")
+
+
+
+def get_wikipedia_summary(title):
+    """
+    Fetches the summary of a Wikipedia article by title.
+    
+    Args:
+    - title (str): The title of the Wikipedia article.
+    
+    Returns:
+    - dict: A dictionary containing the summary and other metadata.
+    """
+    # Define the URL for the Wikipedia API
+    URL = "https://en.wikipedia.org/api/rest_v1/page/summary/"
+    
+    # Make a GET request to fetch the article summary
+    response = requests.get(URL + title)
+    
+    # Check if the request was successful
+    if response.status_code == 200:
+        # Return the JSON response content
+        return response.json()
+    else:
+        return {"error": "Article not found or API request failed."}
+
